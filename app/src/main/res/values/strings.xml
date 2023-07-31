@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Electric Bills Calculator</string>
+    <string name="consumption_slab"> Consumption Slab </string>
+
+    <string name="consumption_cost">Your consumption cost is $</string>
+    <string name="meter_reading_error">Current meter reading should not be less then last reading </string>
+    <string name="positive_reading_message">Please enter positive reading number</string>
+    <string name="valid_service_no_message">Please enter valid 10 digit alpha numeric service number</string>
+    <string name="save_message">Details saved successfully!!!</string>
+    <string name="calculate_consumptions_rate">Calculate consumptions rate</string>
+    <string name="enter_meter_reading">Enter meter reading</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save</string>
+    <string name="enter_service_number">Enter service number</string>
+    <string name="add_consumption_slab">Please add consumption slab</string>
+    <string name="historical_records">Historical Records</string>
+    <string name="all_details">Please enter all the required details</string>
+    <string name="databas">Slab_Database</string>
+    <string name="unit_error">Start unit should be less then end unit</string>
+</resources>
